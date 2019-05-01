@@ -1,0 +1,9 @@
+{
+  "name": "circuit-network",
+  "version": "0.0.0",
+  "description": "CircuitNetwork",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
