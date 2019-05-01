@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CircuitNetwork", "CircuitNetwork\CircuitNetwork.njsproj", "{5EBEABEF-9600-473A-BC00-C42F7E6BD765}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CircuitNetwork", "CircuitNetwork\CircuitNetwork.njsproj", "{BAF727C9-5710-4F4C-995C-4B2CB9886787}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5EBEABEF-9600-473A-BC00-C42F7E6BD765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5EBEABEF-9600-473A-BC00-C42F7E6BD765}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5EBEABEF-9600-473A-BC00-C42F7E6BD765}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5EBEABEF-9600-473A-BC00-C42F7E6BD765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF727C9-5710-4F4C-995C-4B2CB9886787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF727C9-5710-4F4C-995C-4B2CB9886787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF727C9-5710-4F4C-995C-4B2CB9886787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF727C9-5710-4F4C-995C-4B2CB9886787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1F64EB19-9599-41A7-A973-610CF249A9DF}
+		SolutionGuid = {C534A5B4-373D-49E4-825A-57F3EB2FCEE9}
 	EndGlobalSection
 EndGlobal
